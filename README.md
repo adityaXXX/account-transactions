@@ -1,6 +1,10 @@
 # Fund Transfer in Go
 An account transaction repository in Go!
 
+Assumptions Taken
+1. Currency is same for all transactions
+   
+
 Instructions to install
 1. Install Go -> https://go.dev/doc/install
 2. Install postgres (based on OS) -> https://www.postgresql.org/download/macosx/
