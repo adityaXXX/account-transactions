@@ -18,4 +18,4 @@ Clone the repo and once we are inside the repo, hit the following command
 
 go run cmd/api/main.go
 
-
+Postman collection for testing the endpoints is uploaded in the repo!
